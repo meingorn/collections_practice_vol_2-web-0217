@@ -1,0 +1,4 @@
+# your code goes here
+def begins_with_r(arr)
+  arr = arr.select{|x| x[0] == "r"}
+end
